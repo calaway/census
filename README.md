@@ -1,7 +1,8 @@
 # Census - An Identity Manager
 
-[![security](https://hakiri.io/github/bcgoss/census/master.svg)](https://hakiri.io/github/bcgoss/census/master) [![Dependency Status](https://gemnasium.com/badges/github.com/bcgoss/census.svg)](https://gemnasium.com/github.com/bcgoss/census) [![Code Climate](https://codeclimate.com/github/bcgoss/census/badges/gpa.svg)](https://codeclimate.com/github/bcgoss/census) [![Test Coverage](https://codeclimate.com/github/bcgoss/census/badges/coverage.svg)](https://codeclimate.com/github/bcgoss/census/coverage)
-[![Build Status](https://travis-ci.org/bcgoss/census.svg?branch=staging)](https://travis-ci.org/bcgoss/census)
+[![security](https://hakiri.io/github/calaway/census/master.svg)](https://hakiri.io/github/calaway/census/master)
+[![Code Climate](https://codeclimate.com/github/calaway/census/badges/gpa.svg)](https://codeclimate.com/github/calaway/census)
+[![Build Status](https://travis-ci.org/calaway/census.svg?branch=master)](https://travis-ci.org/calaway/census)
 
 > Census serves as a central location for identity management and authentication across the [Turing School](https://github.com/turingschool) community.
 
